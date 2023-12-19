@@ -1,4 +1,0 @@
-* Average running time of sequential algorithm ~ 552 sec.
-* Average running time of parallel algorithm ~ 252 sec.
-
-Parallel algorithm faster ~ x2.2
