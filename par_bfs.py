@@ -36,7 +36,7 @@ def par_bfs(graph: dict, start_nodes: list, pool_size: int) -> list:
 
 if __name__ == "__main__":
     t = 0
-    n = 1
+    n = 5
 
     for _ in range(n):
         cubic_graph = generate_cubic_graph(500)
